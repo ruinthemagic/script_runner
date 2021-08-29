@@ -1,0 +1,2 @@
+executable, execute_path, venv_path, script_path
+python3, /Users/liam/Desktop/bookmarker, venv, sweep_for_new_files_and_cleanup.py
